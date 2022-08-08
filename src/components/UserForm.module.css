@@ -1,0 +1,24 @@
+.label {
+    color: white;
+}
+
+.lInvalid{
+    color: red;
+}
+
+.iInvalid{
+    background-color: rgb(231, 162, 162);
+}
+
+.datos{
+    padding-left: 5%;
+}
+
+.datos input {
+    margin-left: 3%;
+}
+
+.boton{
+    display: flex;
+    justify-content: center;
+}

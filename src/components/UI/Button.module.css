@@ -1,0 +1,14 @@
+button{
+    background-color: rgb(116, 60, 169);
+    color: white;
+    border-radius: 5px;
+    margin-top: 2vh;
+    padding: 1%;
+    border: rgb(223, 199, 246) solid 2px;
+}
+
+button:hover{
+    background-color: rgb(223, 199, 246);
+    border-color: rgb(116, 60, 169);
+    color: rgb(116, 60, 169);
+}
